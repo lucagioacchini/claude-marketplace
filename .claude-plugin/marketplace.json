@@ -1,0 +1,18 @@
+{
+  "name": "personal-marketplace",
+  "metadata":{
+    "version": "1.0.0",
+    "description": "Personal marketplace for Claude Desktop"
+  },
+  "owner": {
+    "name": "Luca Gioacchini",
+    "email": "lucagioack@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "culture-compass",
+      "source": "./plugins/culture-compass",
+      "description": "Spoiler-free context, deep dives, and cultural discoveries — all in one place."
+    }
+  ]
+}
