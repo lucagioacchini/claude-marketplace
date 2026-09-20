@@ -1,18 +1,7 @@
 ---
 name: opera-context-briefing
-description: >-
-  Prepara un "briefing pre-fruizione" per un film, un libro o una serie
-  prima che l'utente lo guardi/legga, senza ANTICIPARE trama, colpi di
-  scena o chiavi interpretative. Copre genesi e produzione dell'opera
-  (situazione dell'autore/regista, motivazioni, processo creativo, cast o
-  editore), il contesto storico e sociale del periodo di uscita, e chiude
-  con consigli pratici su come porsi di fronte all'opera. Usa questa skill
-  ogni volta che l'utente chiede il contesto, la genesi, come è nato o
-  perché è stato fatto/scritto un film/libro/serie che sta per
-  guardare/leggere, o chiede di evitare spoiler e letture interpretative
-  anticipate. Argomenti attesi - media (film, libro, serie), titolo,
-  autore; se mancano ma sono deducibili procedi con un'assunzione
-  esplicita, chiedi solo se il titolo è ambiguo.
+description: "Prepara un briefing pre-fruizione per un film, un libro o una serie prima che l'utente lo guardi/legga, senza ANTICIPARE trama, colpi di scena o chiavi interpretative."
+argument-hint: <media> <title> <author>
 ---
  
 # Opera Context Briefing
